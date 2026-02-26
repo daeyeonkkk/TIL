@@ -22,7 +22,7 @@ TIL
 ## 최근 업데이트
 | 날짜 | 주제 | 링크 |
 |------|------|------|
-| 2026-02-26 | 보안 관점 CS 핵심 메모 | [logs/2026/2026-02-26.md](logs/2026/2026-02-26.md) |
+| 2026-02-26 | 2026-02-26 학습 기록 | [logs/2026/2026-02-26.md](logs/2026/2026-02-26.md) |
 | 2026-02-24 | 2월 4주 학습 로그 | [logs/2026/2026-02-week4.md](logs/2026/2026-02-week4.md) |
 | 2026-02-24 | SARVIS PM 전환 회고 | [ssafy/sarvis-retrospective.md](ssafy/sarvis-retrospective.md) |
 | 2026-02-24 | DRF/FastAPI 설계 노트 | [backend/drf-fastapi-notes.md](backend/drf-fastapi-notes.md) |
